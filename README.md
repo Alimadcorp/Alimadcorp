@@ -1,32 +1,64 @@
-# Hi, I'm Alimad Co 👋
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alimadcorp&show_icons=true&theme=radical)
-
----
-
-## Contact & Status
-
-![Discord](https://img.shields.io/badge/Discord-alimad_co-7289DA?logo=discord)
-![Slack Status](https://img.shields.io/badge/Slack-Online-4A154B?logo=slack)
-[![Itch.io Profile](https://img.shields.io/badge/Itch.io-AlimadCo-fa5c5c?logo=itch-io)](https://alimad.itch.io)
+<h1 align="center">Hey, I'm Muhammad Ali</h1>
+<p align="center">
+  <i>Changing the world, one commit at a time.</i>
+</p>
 
 ---
 
-*Feel free to connect with me on any platform above!*
+### About Me
 
-<!-- Add more custom sections as needed -->
+- Web, app and game developer + 3d animator
+- Currently working on: Swiveling escape remake for jumpstart.hackclub.com ++ GMTK game jam is here ++ Uhhh
+- Im a 16 year old guy from Pakistan
 
-<!--
-**Alimadcorp/Alimadcorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Let's Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://discord.com/users/888954248199549030"><img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://github.com/alimadcorp"><img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="slack://user?team=T0266FRGM&id=U08LQFRBL6S"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@alimadco"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alimadcorp&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimadcorp&layout=compact&theme=tokyonight" />
+</p>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/888954248199549030)](https://discord.com/users/888954248199549030)
+
+---
+
+### Latest YouTube Video
+
+<!-- Replace this with your actual YouTube embed -->
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID">
+    <img width="60%" src="https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg" alt="YouTube video thumbnail">
+  </a><br>
+</p>
+
+---
+
+### Fun Fact
+
+> Most of my side projects start at 2am with no plan and end up turning into full apps.
+
+---
+
+### Philosophy
+
+> Every even natural number can be expressed as the sum of two prime numbers.
+
+---
+
+<p align="center">
+  <i>This README updates itself (only if I do) :heavysob:.</i>  
+  <br><br>
+  Don’t forget to star the repos you like!
+  -- Or even if u dont. Me want them stars hehe :}
+</p>
