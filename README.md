@@ -27,9 +27,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alimadcorp&show_icons=true&theme=tokyonight&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimadcorp&layout=compact&theme=tokyonight" />
+  <a href="https://discord.com/users/888954248199549030"><img src="https://lanyard.cnrad.dev/api/888954248199549030?idleMessage=Gehee&showDisplayName=true" /></a>
 </p>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/888954248199549030)](https://discord.com/users/888954248199549030)
 
 ---
 
@@ -46,7 +45,7 @@
 
 ### Fun Fact
 
-> Most of my side projects start at 2am with no plan and end up turning into full apps.
+> Theres an api called http.cat which has a cat image for every http status code <a href="https://http.cat/">Check it out</a>
 
 ---
 
