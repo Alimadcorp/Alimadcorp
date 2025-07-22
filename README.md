@@ -2,6 +2,8 @@
 <p align="center">
   <i>Changing the world, one commit at a time.</i>
 </p>
+<p align="center">My website: </p>
+<h3 align="center"><a href="https://alimad.co">www.alimad.co</a></h3>
 
 ---
 
@@ -34,10 +36,9 @@
 
 ### Latest YouTube Video
 
-<!-- Replace this with your actual YouTube embed -->
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID">
-    <img width="60%" src="https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg" alt="YouTube video thumbnail">
+  <a href="[https://youtu.be/5K4-kixZslw">
+    <img width="60%" src="https://img.youtube.com/vi/5K4-kixZslw/hqdefault.jpg" alt="YouTube video thumbnail">
   </a><br>
 </p>
 
