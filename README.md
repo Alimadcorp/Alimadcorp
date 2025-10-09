@@ -4,6 +4,10 @@
 </p>
 <p align="center">My website: </p>
 <h3 align="center"><a href="https://alimad.co">www.alimad.co</a></h3>
+<p align="center"><strong>Visitor Count</strong></p>
+<div align="center">
+  <img src="https://count.getloli.com/get/@Alimadcorp?theme=capoo-2" alt="Visitor Counter" />
+</div>
 
 ---
 
