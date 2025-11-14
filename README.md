@@ -6,7 +6,7 @@
 <h3 align="center"><a href="https://alimad.co">www.alimad.co</a></h3>
 <p align="center"><strong>Visitor Count</strong></p>
 <div align="center">
-  <img src="https://count.getloli.com/get/@Alimadcorp?theme=morden-num" alt="Visitor Counter" style="filter:invert(1)" />
+  <img src="https://count.getloli.com/get/@Alimadcorp?theme=3d-num" alt="Visitor Counter" style="filter:invert(1)" />
 </div>
 
 ---
@@ -16,6 +16,12 @@
 - Web, app and game developer + 3d animator
 - Currently working on: Swiveling escape remake for jumpstart.hackclub.com ++ GMTK game jam is here ++ Uhhh
 - Im a 16 year old guy from Pakistan
+
+---
+
+### Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
@@ -61,8 +67,8 @@
 ---
 
 <p align="center">
-  <i>This README updates itself (only if I do) :heavysob:.</i>  
+  <i>This README updates itself.</i>  
   <br><br>
   Don’t forget to star the repos you like!
-  -- Or even if u dont. Me want them stars hehe :}
+  -- And the same even if u dont. Me want them stars hehe :}
 </p>
