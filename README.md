@@ -4,10 +4,7 @@
 </p>
 <p align="center">My website: </p>
 <h3 align="center"><a href="https://alimad.co">www.alimad.co</a></h3>
-<p align="center"><strong>Visitor Count</strong></p>
-<div align="center">
-  <img src="https://count.getloli.com/get/@Alimadcorp?theme=3d-num" alt="Visitor Counter" style="filter:invert(1)" />
-</div>
+![](https://hit.yhype.me/github/profile?account_id=119115454)
 
 ---
 
