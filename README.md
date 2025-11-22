@@ -4,7 +4,6 @@
 </p>
 <p align="center">My website: </p>
 <h3 align="center"><a href="https://alimad.co">www.alimad.co</a></h3>
-![](https://hit.yhype.me/github/profile?account_id=119115454)
 
 ---
 
