@@ -35,7 +35,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alimadcorp&show_icons=true&theme=tokyonight&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimadcorp&layout=compact&theme=tokyonight" />
-  <a href="https://discord.com/users/888954248199549030"><img src="https://lanyard.cnrad.dev/api/888954248199549030?idleMessage=Gehee&showDisplayName=true" /></a>
+  [![Discord Presence](https://lanyard.cnrad.dev/api/888954248199549030?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/888954248199549030)
 </p>
 
 ---
