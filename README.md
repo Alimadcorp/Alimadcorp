@@ -7,6 +7,13 @@ I am currently a member of the *Hack Club* and just recently ran a game jam in m
 - Ask me about programming in general, I am always <br> available to help and learn together.
 - I am skilled in several languages, but I recognize there's always more to learn.
 
+My tech stack
+
+[![My tech stack!](https://skillicons.dev/icons?theme=light&i=js,html,css,nodejs,react,flutter,dart,java,git,figma,blender,cpp,cloudflare,django,dotnet,express,firebase,github,godot,nextjs,netlify,npm,p5js,postman,py,ruby,supabase,tailwind,ts,unity,vercel,visualstudio,vscode,windows)](https://skillicons.dev)
+
+Tools I use
+
+Stuff I may have used 
 
 [![Slack](https://img.shields.io/badge/-Slack-blue?style=flat)](https://hackclub.enterprise.slack.com/team/U08LQFRBL6S)
 [<img src="https://img.shields.io/github/followers/Alimadcorp?label=follow&style=social" height="22" title="Follow me" />](https://github.com/Alimadcorp) 
