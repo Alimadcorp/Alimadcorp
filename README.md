@@ -28,4 +28,4 @@ Tools I use
 
 [![Tools I use :3](https://skillicons.dev/icons?i=windows,vscode,blender,unity,visualstudio,godot,figma,cloudflare,postman,github,npm)](https://skillicons.dev)
 
-+ Techsmith Camtasia, its my favourite video editor
+and Techsmith Camtasia, its my favourite video editor
