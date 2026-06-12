@@ -1,7 +1,6 @@
 ## Hello World!
 
 [![Slack](https://img.shields.io/badge/-Slack-blue?style=flat)](https://hackclub.enterprise.slack.com/team/U08LQFRBL6S)
-[<img src="https://img.shields.io/github/followers/Alimadcorp?label=follow&style=social" height="22" title="Follow me" />](https://github.com/Alimadcorp) 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/alimadco)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alimad.co.ltd@gmail.com)
 
