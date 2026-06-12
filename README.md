@@ -19,12 +19,8 @@ My tech stack
 
 [![My tech stack!](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,nodejs,express,p5js,nextjs,py,cpp,cs,vercel,netlify,firebase)](https://skillicons.dev)
 
-Stuff I need to learn:
-
-[![heh](https://skillicons.dev/icons?i=react,django,java,dotnet,flutter,dart,rust,ruby,supabase)](https://skillicons.dev)
-
 Tools I use
 
-[![Tools I use :3](https://skillicons.dev/icons?i=windows,vscode,blender,unity,visualstudio,godot,figma,cloudflare,postman,github,npm)](https://skillicons.dev)
+[![Tools I use :3](https://skillicons.dev/icons?i=kali,vscode,blender,unity,visualstudio,godot,figma,cloudflare,postman,github,npm)](https://skillicons.dev)
 
 and Techsmith Camtasia, its my favourite video editor
